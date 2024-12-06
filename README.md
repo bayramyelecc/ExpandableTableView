@@ -2,7 +2,7 @@
 
 <p align="center" id="description">Expandable TableView code I wrote programmatically using Snapkit.</p>
 
-<h3 align="center" >💻 Kullandığım Teknolojiler</h3>
+<h3 align="center" >💻</h3>
 
 <h5 align="center"> *   Swift </h5>
 <h5 align="center"> *   UIKit(Programmatic) </h5>
